@@ -30,6 +30,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  <br></div>
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring"  height="50"/> 
+</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
 </div></td><td valign="top" width="33%">
 
 ### Databses  
